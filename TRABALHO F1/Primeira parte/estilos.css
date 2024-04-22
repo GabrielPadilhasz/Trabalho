@@ -1,0 +1,121 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.075);
+}
+
+.logo-fia img,
+.logo-f1 img {
+    height: 60px;
+}
+
+.title {
+    text-align: center;
+    flex-grow: 1;
+}
+
+h1 {
+    margin: 0;
+    font-size: 24px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+h1:hover {
+    color: #ff6600;
+    transition: color 0.3s ease-in-out;
+}
+td{
+    border: 1px solid black;
+}
+
+.pontuaçaoPilotos{
+  background-color:white;
+ color:black;
+}
+
+.HOLANDA{
+  width: 50%;
+  margin: 0;
+}
+
+.MONACO{
+  width: 50%;
+  margin: 0;
+}
+
+.ESPANHA{
+  width: 50%;
+  margin: 0;
+}
+
+.MEXICO{
+  width: 50%;
+  margin: 0;
+}
+
+.AUSTRALIA{
+  width: 50%;
+  margin: 0;
+}
+
+.REINOUNIDO{
+  width: 50%;
+  margin: 0;
+}
+
+.CANADA{
+  width: 50%;
+  margin: 0;
+}
+
+.ESPANHA{
+  width: 50%;
+  margin: 0;
+}
+
+.JAPAO{
+  width: 50%;
+  margin: 0;
+}
+
+.ALEMANHA{
+  width: 50%;
+  margin: 0;
+}
+
+.DINAMARCA{
+  width: 50%;
+  margin: 0;
+}
+
+.FRANCA{
+  width: 50%;
+  margin: 0;
+}
+
+.CHINA{
+  width: 50%;
+  margin: 0;
+}
+
+.ESTADOSUNIDOS{
+  width: 50%;
+  margin: 0;
+}
+
+.FINLANDIA{
+  width: 50%;
+  margin: 0;
+}
